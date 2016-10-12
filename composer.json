@@ -1,0 +1,18 @@
+{
+    "name": "tobbe/enforce-modrewrite",
+    "module": "tobbe/enforce-modrewrite",
+    "version": "1.0.0",
+    "type": "pagekit-extension",
+    "title": "Enforce Rewrite URL",
+    "description": "Some web hoster use prefixes for environment variables which makes it impossible for pagekit to recognize if mod_rewrite is enabled. This extension enforces rewritten urls. WARNING: Use this extension only if your website also works without the 'index.php' in urls!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobbe",
+            "email": "contact@tobbexiv.de",
+            "homepage": "https://github.com/tobbexiv/pagekit-enforce-modrewrite"
+        }
+    ],
+    "extra": {
+    }
+}
